@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/article-preview-FEM/static/js/main.9e9075cb.js",
+    "static/media/drawers.jpg": "/article-preview-FEM/static/media/drawers.631135b079e9f19bada8.jpg",
+    "index.html": "/article-preview-FEM/index.html",
+    "static/media/icon-pinterest.svg": "/article-preview-FEM/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "static/media/icon-twitter.svg": "/article-preview-FEM/static/media/icon-twitter.45735e3b0e1132259059ab811589d1e7.svg",
+    "static/media/icon-facebook.svg": "/article-preview-FEM/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/icon-share.svg": "/article-preview-FEM/static/media/icon-share.b674a43ec65ed8071dee895813112f1f.svg",
+    "main.9e9075cb.js.map": "/article-preview-FEM/static/js/main.9e9075cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9e9075cb.js"
+  ]
+}
